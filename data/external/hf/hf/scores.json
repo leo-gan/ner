@@ -1,0 +1,1 @@
+{"persons": {"precision": 0.796, "recall": 0.827, "F1": 0.807, "support": 24248}, "organizations": {"precision": 0.93, "recall": 0.935, "F1": 0.932, "support": 23191}, "locations": {"precision": 0.921, "recall": 0.925, "F1": 0.922, "support": 23498}}
