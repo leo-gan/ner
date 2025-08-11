@@ -3,7 +3,7 @@ typer==0.7.0
 transformers==4.44.2
 datasets==2.21.0
 nltk==3.8.1
-torch==2.4.1
+torch
 pandas==2.2.2
 scikit-learn==1.5.0
 spacy==3.5.2
